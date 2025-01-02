@@ -1,6 +1,6 @@
-import 'package:dewakoding_kasir/app/domain/entity/product.dart';
-import 'package:dewakoding_kasir/app/domain/usecase/product_get_all.dart';
-import 'package:dewakoding_kasir/core/provider/app_provider.dart';
+import 'package:bintang_kasir/app/domain/entity/product.dart';
+import 'package:bintang_kasir/app/domain/usecase/product_get_all.dart';
+import 'package:bintang_kasir/core/provider/app_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
