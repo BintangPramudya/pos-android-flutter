@@ -1,6 +1,6 @@
-import 'package:dewakoding_kasir/app/domain/entity/order.dart';
-import 'package:dewakoding_kasir/app/domain/usecase/order_get_by_id.dart';
-import 'package:dewakoding_kasir/core/provider/app_provider.dart';
+import 'package:bintang_kasir/app/domain/entity/order.dart';
+import 'package:bintang_kasir/app/domain/usecase/order_get_by_id.dart';
+import 'package:bintang_kasir/core/provider/app_provider.dart';
 
 class DetailOrderNotifier extends AppProvider {
   final int _id;
