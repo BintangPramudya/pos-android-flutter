@@ -1,7 +1,7 @@
-import 'package:dewakoding_kasir/app/domain/entity/order.dart';
-import 'package:dewakoding_kasir/app/presentation/print/print_notifier.dart';
-import 'package:dewakoding_kasir/core/helper/global_helper.dart';
-import 'package:dewakoding_kasir/core/widget/app_widget.dart';
+import 'package:bintang_kasir/app/domain/entity/order.dart';
+import 'package:bintang_kasir/app/presentation/print/print_notifier.dart';
+import 'package:bintang_kasir/core/helper/global_helper.dart';
+import 'package:bintang_kasir/core/widget/app_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/material/app_bar.dart';
 import 'package:flutter/src/widgets/framework.dart';
