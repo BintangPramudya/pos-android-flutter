@@ -1,6 +1,6 @@
-import 'package:dewakoding_kasir/app/presentation/login/login_screen.dart';
-import 'package:dewakoding_kasir/core/helper/global_helper.dart';
-import 'package:dewakoding_kasir/core/helper/shared_preferences_helper.dart';
+import 'package:bintang_kasir/app/presentation/login/login_screen.dart';
+import 'package:bintang_kasir/core/helper/global_helper.dart';
+import 'package:bintang_kasir/core/helper/shared_preferences_helper.dart';
 import 'package:flutter/material.dart';
 
 class ErrorAppWidget extends StatelessWidget {
