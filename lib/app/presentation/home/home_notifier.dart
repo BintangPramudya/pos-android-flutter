@@ -1,8 +1,8 @@
-import 'package:dewakoding_kasir/app/domain/entity/order.dart';
-import 'package:dewakoding_kasir/app/domain/usecase/order_get_today.dart';
-import 'package:dewakoding_kasir/core/constant/constant.dart';
-import 'package:dewakoding_kasir/core/helper/shared_preferences_helper.dart';
-import 'package:dewakoding_kasir/core/provider/app_provider.dart';
+import 'package:bintang_kasir/app/domain/entity/order.dart';
+import 'package:bintang_kasir/app/domain/usecase/order_get_today.dart';
+import 'package:bintang_kasir/core/constant/constant.dart';
+import 'package:bintang_kasir/core/helper/shared_preferences_helper.dart';
+import 'package:bintang_kasir/core/provider/app_provider.dart';
 
 class HomeNotifier extends AppProvider {
   final OrderGetTodayUseCase _orderGetTodayUseCase;
