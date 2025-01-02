@@ -1,8 +1,8 @@
-import 'package:dewakoding_kasir/app/domain/entity/order.dart';
-import 'package:dewakoding_kasir/app/domain/entity/payment_method.dart';
-import 'package:dewakoding_kasir/app/domain/usecase/order_send.dart';
-import 'package:dewakoding_kasir/app/domain/usecase/payment_method_get_all.dart';
-import 'package:dewakoding_kasir/core/provider/app_provider.dart';
+import 'package:bintang_kasir/app/domain/entity/order.dart';
+import 'package:bintang_kasir/app/domain/entity/payment_method.dart';
+import 'package:bintang_kasir/app/domain/usecase/order_send.dart';
+import 'package:bintang_kasir/app/domain/usecase/payment_method_get_all.dart';
+import 'package:bintang_kasir/core/provider/app_provider.dart';
 import 'package:flutter/material.dart';
 
 class CheckoutNotifier extends AppProvider {
