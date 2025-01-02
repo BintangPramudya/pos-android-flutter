@@ -1,6 +1,6 @@
-import 'package:dewakoding_kasir/app/domain/entity/order.dart';
-import 'package:dewakoding_kasir/app/domain/usecase/order_get_all.dart';
-import 'package:dewakoding_kasir/core/provider/app_provider.dart';
+import 'package:bintang_kasir/app/domain/entity/order.dart';
+import 'package:bintang_kasir/app/domain/usecase/order_get_all.dart';
+import 'package:bintang_kasir/core/provider/app_provider.dart';
 
 class OrderNotifier extends AppProvider {
   final OrderGetAllUseCase _orderGetAllUseCase;
