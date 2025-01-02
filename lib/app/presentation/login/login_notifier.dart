@@ -1,8 +1,8 @@
-import 'package:dewakoding_kasir/app/domain/entity/auth.dart';
-import 'package:dewakoding_kasir/app/domain/usecase/auth_login.dart';
-import 'package:dewakoding_kasir/core/constant/constant.dart';
-import 'package:dewakoding_kasir/core/helper/shared_preferences_helper.dart';
-import 'package:dewakoding_kasir/core/provider/app_provider.dart';
+import 'package:bintang_kasir/app/domain/entity/auth.dart';
+import 'package:bintang_kasir/app/domain/usecase/auth_login.dart';
+import 'package:bintang_kasir/core/constant/constant.dart';
+import 'package:bintang_kasir/core/helper/shared_preferences_helper.dart';
+import 'package:bintang_kasir/core/provider/app_provider.dart';
 import 'package:flutter/material.dart';
 
 class LoginNotifier extends AppProvider {
