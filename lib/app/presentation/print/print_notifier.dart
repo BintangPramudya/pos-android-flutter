@@ -1,9 +1,9 @@
-import 'package:dewakoding_kasir/app/domain/entity/order.dart';
-import 'package:dewakoding_kasir/app/domain/entity/setting.dart';
-import 'package:dewakoding_kasir/app/domain/usecase/setting_get.dart';
-import 'package:dewakoding_kasir/core/helper/date_time_helper.dart';
-import 'package:dewakoding_kasir/core/helper/number_helper.dart';
-import 'package:dewakoding_kasir/core/provider/app_provider.dart';
+import 'package:bintang_kasir/app/domain/entity/order.dart';
+import 'package:bintang_kasir/app/domain/entity/setting.dart';
+import 'package:bintang_kasir/app/domain/usecase/setting_get.dart';
+import 'package:bintang_kasir/core/helper/date_time_helper.dart';
+import 'package:bintang_kasir/core/helper/number_helper.dart';
+import 'package:bintang_kasir/core/provider/app_provider.dart';
 import 'package:print_bluetooth_thermal/print_bluetooth_thermal.dart';
 import 'package:esc_pos_utils_plus/esc_pos_utils_plus.dart';
 
