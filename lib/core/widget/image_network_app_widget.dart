@@ -1,4 +1,4 @@
-import 'package:dewakoding_kasir/core/helper/global_helper.dart';
+import 'package:bintang_kasir/core/helper/global_helper.dart';
 import 'package:flutter/material.dart';
 
 class ImageNetworkAppWidget extends StatelessWidget {
