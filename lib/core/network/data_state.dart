@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:dewakoding_kasir/core/network/base_response.dart';
+import 'package:bintang_kasir/core/network/base_response.dart';
 import 'package:retrofit/retrofit.dart';
 import 'package:dio/dio.dart';
 
