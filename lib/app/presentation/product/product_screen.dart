@@ -1,9 +1,9 @@
-import 'package:dewakoding_kasir/app/domain/entity/product.dart';
-import 'package:dewakoding_kasir/app/presentation/product/product_notifier.dart';
-import 'package:dewakoding_kasir/core/helper/global_helper.dart';
-import 'package:dewakoding_kasir/core/helper/number_helper.dart';
-import 'package:dewakoding_kasir/core/widget/app_widget.dart';
-import 'package:dewakoding_kasir/core/widget/image_network_app_widget.dart';
+import 'package:bintang_kasir/app/domain/entity/product.dart';
+import 'package:bintang_kasir/app/presentation/product/product_notifier.dart';
+import 'package:bintang_kasir/core/helper/global_helper.dart';
+import 'package:bintang_kasir/core/helper/number_helper.dart';
+import 'package:bintang_kasir/core/widget/app_widget.dart';
+import 'package:bintang_kasir/core/widget/image_network_app_widget.dart';
 import 'package:flutter/material.dart';
 
 class ProductScreen extends AppWidget<ProductNotifier, void, void> {
