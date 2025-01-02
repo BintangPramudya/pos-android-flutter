@@ -1,5 +1,5 @@
-import 'package:dewakoding_kasir/app/domain/entity/payment_method.dart';
-import 'package:dewakoding_kasir/app/domain/entity/product.dart';
+import 'package:bintang_kasir/app/domain/entity/payment_method.dart';
+import 'package:bintang_kasir/app/domain/entity/product.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 part 'order.g.dart';
