@@ -1,7 +1,7 @@
-import 'package:dewakoding_kasir/app/presentation/login/login_screen.dart';
-import 'package:dewakoding_kasir/core/di/dependency.dart';
-import 'package:dewakoding_kasir/core/widget/error_app_widget.dart';
-import 'package:dewakoding_kasir/core/widget/loading_app_widget.dart';
+import 'package:bintang_kasir/app/presentation/login/login_screen.dart';
+import 'package:bintang_kasir/core/di/dependency.dart';
+import 'package:bintang_kasir/core/widget/error_app_widget.dart';
+import 'package:bintang_kasir/core/widget/loading_app_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/date_symbol_data_local.dart';
 
