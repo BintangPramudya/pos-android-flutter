@@ -1,8 +1,8 @@
-import 'package:dewakoding_kasir/core/di/dependency.dart';
-import 'package:dewakoding_kasir/core/helper/dialog_helper.dart';
-import 'package:dewakoding_kasir/core/provider/app_provider.dart';
-import 'package:dewakoding_kasir/core/widget/error_app_widget.dart';
-import 'package:dewakoding_kasir/core/widget/loading_app_widget.dart';
+import 'package:bintang_kasir/core/di/dependency.dart';
+import 'package:bintang_kasir/core/helper/dialog_helper.dart';
+import 'package:bintang_kasir/core/provider/app_provider.dart';
+import 'package:bintang_kasir/core/widget/error_app_widget.dart';
+import 'package:bintang_kasir/core/widget/loading_app_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
