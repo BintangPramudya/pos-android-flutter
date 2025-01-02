@@ -1,12 +1,12 @@
-import 'package:dewakoding_kasir/app/domain/entity/product.dart';
-import 'package:dewakoding_kasir/app/presentation/add_product_order/add_product_order_screen.dart';
-import 'package:dewakoding_kasir/app/presentation/checkout/checkout_screen.dart';
-import 'package:dewakoding_kasir/app/presentation/input_order/input_order_notifier.dart';
-import 'package:dewakoding_kasir/core/helper/date_time_helper.dart';
-import 'package:dewakoding_kasir/core/helper/dialog_helper.dart';
-import 'package:dewakoding_kasir/core/helper/global_helper.dart';
-import 'package:dewakoding_kasir/core/helper/number_helper.dart';
-import 'package:dewakoding_kasir/core/widget/app_widget.dart';
+import 'package:bintang_kasir/app/domain/entity/product.dart';
+import 'package:bintang_kasir/app/presentation/add_product_order/add_product_order_screen.dart';
+import 'package:bintang_kasir/app/presentation/checkout/checkout_screen.dart';
+import 'package:bintang_kasir/app/presentation/input_order/input_order_notifier.dart';
+import 'package:bintang_kasir/core/helper/date_time_helper.dart';
+import 'package:bintang_kasir/core/helper/dialog_helper.dart';
+import 'package:bintang_kasir/core/helper/global_helper.dart';
+import 'package:bintang_kasir/core/helper/number_helper.dart';
+import 'package:bintang_kasir/core/widget/app_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:qr_bar_code_scanner_dialog/qr_bar_code_scanner_dialog.dart';
 
