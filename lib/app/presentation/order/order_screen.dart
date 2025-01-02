@@ -1,12 +1,12 @@
-import 'package:dewakoding_kasir/app/domain/entity/order.dart';
-import 'package:dewakoding_kasir/app/presentation/detail_order/detail_order_screen.dart';
-import 'package:dewakoding_kasir/app/presentation/input_order/input_order_screen.dart';
-import 'package:dewakoding_kasir/app/presentation/order/order_notifier.dart';
-import 'package:dewakoding_kasir/core/helper/date_time_helper.dart';
-import 'package:dewakoding_kasir/core/helper/global_helper.dart';
-import 'package:dewakoding_kasir/core/helper/number_helper.dart';
-import 'package:dewakoding_kasir/core/provider/app_provider.dart';
-import 'package:dewakoding_kasir/core/widget/app_widget.dart';
+import 'package:bintang_kasir/app/domain/entity/order.dart';
+import 'package:bintang_kasir/app/presentation/detail_order/detail_order_screen.dart';
+import 'package:bintang_kasir/app/presentation/input_order/input_order_screen.dart';
+import 'package:bintang_kasir/app/presentation/order/order_notifier.dart';
+import 'package:bintang_kasir/core/helper/date_time_helper.dart';
+import 'package:bintang_kasir/core/helper/global_helper.dart';
+import 'package:bintang_kasir/core/helper/number_helper.dart';
+import 'package:bintang_kasir/core/provider/app_provider.dart';
+import 'package:bintang_kasir/core/widget/app_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
