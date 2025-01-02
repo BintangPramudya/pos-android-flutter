@@ -1,8 +1,8 @@
-import 'package:dewakoding_kasir/app/presentation/login/login_screen.dart';
-import 'package:dewakoding_kasir/app/presentation/product/product_screen.dart';
-import 'package:dewakoding_kasir/app/presentation/profil/profil_notifier.dart';
-import 'package:dewakoding_kasir/core/helper/global_helper.dart';
-import 'package:dewakoding_kasir/core/widget/app_widget.dart';
+import 'package:bintang_kasir/app/presentation/login/login_screen.dart';
+import 'package:bintang_kasir/app/presentation/product/product_screen.dart';
+import 'package:bintang_kasir/app/presentation/profil/profil_notifier.dart';
+import 'package:bintang_kasir/core/helper/global_helper.dart';
+import 'package:bintang_kasir/core/widget/app_widget.dart';
 import 'package:flutter/material.dart';
 
 class ProfilScreen extends AppWidget<ProfilNotifier, void, void> {
