@@ -1,5 +1,5 @@
-import 'package:dewakoding_kasir/core/constant/constant.dart';
-import 'package:dewakoding_kasir/core/network/data_state.dart';
+import 'package:bintang_kasir/core/constant/constant.dart';
+import 'package:bintang_kasir/core/network/data_state.dart';
 import 'package:dio/dio.dart';
 import 'package:retrofit/retrofit.dart';
 
