@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:dewakoding_kasir/app/domain/entity/order.dart';
-import 'package:dewakoding_kasir/app/presentation/detail_order/detail_order_screen.dart';
-import 'package:dewakoding_kasir/app/presentation/home/home_notifier.dart';
-import 'package:dewakoding_kasir/app/presentation/input_order/input_order_screen.dart';
-import 'package:dewakoding_kasir/app/presentation/order/order_screen.dart';
-import 'package:dewakoding_kasir/app/presentation/profil/profil_screen.dart';
-import 'package:dewakoding_kasir/core/helper/date_time_helper.dart';
-import 'package:dewakoding_kasir/core/helper/global_helper.dart';
-import 'package:dewakoding_kasir/core/helper/number_helper.dart';
-import 'package:dewakoding_kasir/core/widget/app_widget.dart';
+import 'package:bintang_kasir/app/domain/entity/order.dart';
+import 'package:bintang_kasir/app/presentation/detail_order/detail_order_screen.dart';
+import 'package:bintang_kasir/app/presentation/home/home_notifier.dart';
+import 'package:bintang_kasir/app/presentation/input_order/input_order_screen.dart';
+import 'package:bintang_kasir/app/presentation/order/order_screen.dart';
+import 'package:bintang_kasir/app/presentation/profil/profil_screen.dart';
+import 'package:bintang_kasir/core/helper/date_time_helper.dart';
+import 'package:bintang_kasir/core/helper/global_helper.dart';
+import 'package:bintang_kasir/core/helper/number_helper.dart';
+import 'package:bintang_kasir/core/widget/app_widget.dart';
 
 class HomeScreen extends AppWidget<HomeNotifier, void, void> {
   @override
