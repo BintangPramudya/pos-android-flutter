@@ -1,6 +1,6 @@
-import 'package:dewakoding_kasir/core/constant/constant.dart';
-import 'package:dewakoding_kasir/core/helper/shared_preferences_helper.dart';
-import 'package:dewakoding_kasir/core/provider/app_provider.dart';
+import 'package:bintang_kasir/core/constant/constant.dart';
+import 'package:bintang_kasir/core/helper/shared_preferences_helper.dart';
+import 'package:bintang_kasir/core/provider/app_provider.dart';
 
 class ProfilNotifier extends AppProvider {
   ProfilNotifier() {
